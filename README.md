@@ -4,7 +4,7 @@
 
 🌍 Based in Amsterdam, Netherlands  
 🔧 Building cloud infrastructure that scales across **fintech, gaming, telecom, and big tech**  
-✨ Creator of [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) — **390+ ⭐** on GitHub
+✨ Creator of [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) — **12.6M+ downloads** on Terraform Registry
 
 ---
 ## 🌍 Journey
@@ -71,11 +71,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aminueza&repo=terraform-provider-minio&theme=tokyonight&hide_border=true" />
 </a>
 
-<br/><br/>
+<br/>
+
+### 📊 [terraform-provider-minio](https://registry.terraform.io/providers/aminueza/minio/latest)
+
+| Metric | Count |
+|--------|------:|
+| ⬇️ **Total Downloads** | **12.6M+** |
+| 📅 **Monthly Downloads** | **538K+** |
+| ⭐ **GitHub Stars** | **390+** |
 
 [![Terraform Registry](https://img.shields.io/badge/Terraform_Registry-Published-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)](https://registry.terraform.io/providers/aminueza/minio/latest)
-[![Stars](https://img.shields.io/github/stars/aminueza/terraform-provider-minio?style=for-the-badge&color=yellow)](https://github.com/aminueza/terraform-provider-minio/stargazers)
-[![Forks](https://img.shields.io/github/forks/aminueza/terraform-provider-minio?style=for-the-badge)](https://github.com/aminueza/terraform-provider-minio/network/members)
+[![Downloads](https://img.shields.io/badge/Downloads-12.6M+-blue?style=for-the-badge&logo=terraform&logoColor=white)](https://registry.terraform.io/providers/aminueza/minio/latest)
+
 
 ---
 
@@ -99,12 +107,17 @@ Research on security and privacy in distributed systems.
 ---
 ## 👩‍🏫 Teaching & Mentoring
 
-- 🎓 Former IT Instructor — Computer Networks, Java, Software Engineering
-- 🤝 Mentored junior engineers at Microsoft and Stefanini
-- 📢 Sharing knowledge through open-source contributions
+- 👩‍💻 **Women's Mentor at Microsoft** — Supporting women in tech careers
+- 🧒 **Nuevo Foundation Volunteer** — Teaching IT to kids in Latin America
+- 🎓 Former **IT Instructor** — Computer Networks, Java, Software Engineering
+- 🤝 Mentored junior engineers across multiple companies
 ---
 ## 📫 Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-amandasouza.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amandasouza.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandasouzas)
 [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/amanda-souza.3580fbb2)
+[![Terraform](https://img.shields.io/badge/Terraform_Registry-Provider-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)](https://registry.terraform.io/providers/aminueza/minio/latest)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=aminueza&color=blue&style=flat-square&label=Profile+Views)
