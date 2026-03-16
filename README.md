@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Amanda Souza
 
-**Senior Site Reliability Engineer** | Tech Lead | Open Source Maintainer | Security Researcher
+**Staff Site Reliability Engineer** | Tech Lead | Open Source Maintainer | Security Lead
 
-🌍 Based in Amsterdam, Netherlands  
+🌍 Based in Joao Pessoa, Brazil  
 🔧 Building cloud infrastructure that scales across **fintech, gaming, telecom, and big tech**  
-✨ Creator of [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) — **12.6M+ downloads** on Terraform Registry
+✨ Creator of [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) — **13.9M+ downloads** on Terraform Registry
 
 ---
 ## 🌍 Journey
@@ -33,7 +33,7 @@
 
 ## 🎯 Currently
 
-- 🔭 Leading SRE at **DataSnipper**
+- 🔭 Leading SRE
 - 🤖 Exploring **AI Reliability Engineering (AIRE)**
 - 📖 Learning **AI/ML infrastructure at scale**
 - 💬 Ask me about **Azure, Terraform, Kubernetes, SRE practices**
@@ -77,7 +77,7 @@
 
 | Metric | Count |
 |--------|------:|
-| ⬇️ **Total Downloads** | **12.6M+** |
+| ⬇️ **Total Downloads** | **13.9M+** |
 | 📅 **Monthly Downloads** | **538K+** |
 | ⭐ **GitHub Stars** | **390+** |
 
